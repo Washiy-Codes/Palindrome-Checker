@@ -28,7 +28,7 @@ It checks whether a given word, phrase, or number reads the same backward as for
 ---
 
 ## 🚀 Live Demo
-👉 [View Live Project](https://washiy-codes.github.io/palindrome/)  
+👉 [View Live Project](https://washiy-codes.github.io/Palindrome-Checker/)  
 
 ---
 
