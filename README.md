@@ -4,6 +4,11 @@ A simple and interactive **Palindrome Checker** built using **HTML**, **CSS**, a
 It checks whether a given word, phrase, or number reads the same backward as forward.
 
 ---
+## 📸 App Screenshot
+
+![Drum Machine App](C:\Users\WACHIRA\OneDrive\Pictures\Screenshots\2025-12-24 (2).png)
+
+---
 
 ## ✨ Features
 - ⚡ Real-time palindrome validation  
