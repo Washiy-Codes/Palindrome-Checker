@@ -7,7 +7,6 @@ It checks whether a given word, phrase, or number reads the same backward as for
 ## 📸 App Screenshot
 
 ![Palindrome Checker App](https://forum.freecodecamp.org/t/build-a-palindrome-checker-project-build-a-palindrome-checker/712241)
-)
 
 ---
 
