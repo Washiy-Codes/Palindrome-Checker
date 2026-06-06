@@ -33,11 +33,11 @@ It checks whether a given word, phrase, or number reads the same backward as for
 ---
 
 ## Live Demo
-👉 [View Live Project](https://washiy-codes.github.io/Palindrome-Checker/)  
+[View Live Project](https://washiy-codes.github.io/Palindrome-Checker/)  
 
 ---
 
-## 👨‍💻 Author
+## Author
 **Joseph Wachira**  
 Frontend Developer passionate about creating user-friendly web experiences.  
 🌐 [GitHub Profile](https://github.com/Washiy-Codes)
