@@ -4,15 +4,15 @@ A simple and interactive **Palindrome Checker** built using **HTML**, **CSS**, a
 It checks whether a given word, phrase, or number reads the same backward as forward.
 
 ---
-## 📸 App Screenshot
+## App Screenshot
 
 ![Palindrome Checker App](https://global.discourse-cdn.com/freecodecamp/optimized/4X/b/d/3/bd3b145a689f12b5c71d40668a6df6cb9038b422_2_690x319.png)
 
 ---
 
-## ✨ Features
-- ⚡ Real-time palindrome validation  
-- 💎 Clean and responsive UI  
+##  Features
+- Real-time palindrome validation  
+- Clean and responsive UI  
 - 🔤 Handles both words and sentences  
 - 🧩 Ignores punctuation, spaces, and capitalization  
 
