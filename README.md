@@ -38,7 +38,6 @@ It checks whether a given word, phrase, or number reads the same backward as for
 ---
 
 ## Author
-**Joseph Wachira**  
 Frontend Developer passionate about creating user-friendly web experiences.  
 [GitHub Profile](https://github.com/Washiy-Codes)
 
